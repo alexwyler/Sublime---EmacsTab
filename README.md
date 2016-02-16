@@ -1,4 +1,4 @@
 Sublime---EmacsTab
 ==================
 
-Provice Emacs-like tab behavior to Sublime
+Provide Emacs-like tab behavior to Sublime 2
